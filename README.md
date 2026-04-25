@@ -4,8 +4,7 @@
 Feature Engineering is the process of transforming raw data into meaningful features that improve the performance of machine learning models. It plays a critical role in extracting signal from data and making it suitable for modeling.
 
 <h3>WHEN IS FEATURE ENGINEERING NEEDED?</h3>
-Feature engineering is essential in the following scenarios:
-<br>
+Feature engineering is essential in the following scenarios:<br>
 
 **1. Handling Skewness**<br>
 Many real-world features are not normally distributed. Transformations help in reducing skewness and improving model performance.
@@ -23,9 +22,9 @@ Machine learning models require numerical input, so categorical data must be enc
 Certain models assume normality, linearity, or homoscedasticity. Feature engineering helps align data with these assumptions.
 
 <h3>FEATURE ENFINEERING TECHNIQUES:</h3><br>
-***A. Feature Scaling***<br>
-***B. Mathematical Data Transformation***<br>
-***C. Encoding***<br>
+*A. Feature Scaling*<br>
+*B. Mathematical Data Transformation*<br>
+*C. Encoding*<br>
 
 ***Topics Covered in This Repository***<br>
 You can explore the following topics in detail:<br>
