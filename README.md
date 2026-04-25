@@ -26,6 +26,7 @@ A. Feature Scaling<br>
 B. Mathematical Data Transformation<br>
 C. Encoding<br>
 <br>
+
 ***Topics Covered in This Repository***<br>
 You can explore the following topics in detail:<br>
 <br>
