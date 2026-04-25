@@ -22,10 +22,10 @@ Machine learning models require numerical input, so categorical data must be enc
 Certain models assume normality, linearity, or homoscedasticity. Feature engineering helps align data with these assumptions.
 
 <h4>FEATURE ENFINEERING TECHNIQUES:</h4>
-*A. Feature Scaling*<br>
-*B. Mathematical Data Transformation*<br>
-*C. Encoding*<br>
-
+A. Feature Scaling<br>
+B. Mathematical Data Transformation<br>
+C. Encoding<br>
+<br>
 ***Topics Covered in This Repository***<br>
 You can explore the following topics in detail:<br>
 <br>
